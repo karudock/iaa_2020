@@ -45,7 +45,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Considerations for ML in distributed environments
 * Spark Best Practices and Tuning
 
-**Assignment (Coming)**
+[**Assignment**](https://github.com/zaratsian/iaa_2020/blob/master/session_04/Spark_ML_Assignment_(template).ipynb)
 
 -----------------
 ## IAA Module - Session 5 - Serverless Technology
