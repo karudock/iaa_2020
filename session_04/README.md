@@ -11,7 +11,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Considerations for ML in distributed environments
 * Spark Best Practices and Tuning
 
-**Assignment (Coming)**
+[**Assignment**](https://github.com/zaratsian/iaa_2020/blob/master/session_04/Spark_ML_Assignment_(template).ipynb)
 
 NOTE: If you'd like to view the Zeppelin notebooks in this repo (which are the .json files) and do not have [Apache Zeppelin](https://zeppelin.apache.org/) installed, you can use an online viewer at [zepl.com](https://www.zepl.com/explore).
 
