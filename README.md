@@ -26,7 +26,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Google Cloud Firestore (NoSQL)
 
 [**Assignment - Due on Friday, March 27, 2020**](https://github.com/zaratsian/iaa_2020/blob/master/session_02/Assignment.md)
-[**Solution Code**](https://github.com/zaratsian/iaa_2020/blob/master/session_02/Assignment%20-%20Solution.sql)
+[**(Solution)**](https://github.com/zaratsian/iaa_2020/blob/master/session_02/Assignment%20-%20Solution.sql)
 
 
 -----------------
