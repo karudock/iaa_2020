@@ -1,4 +1,5 @@
 
+/*
 #######################################################################
 #
 #   Assignment #1
@@ -6,8 +7,9 @@
 #   This SQL has been tested within Google Cloud BigQuery
 #
 #######################################################################
+*/
 
-
+/*
 # Question 1: Which bike station in Austin is the most popular when starting a trip?
 #
 # Answer:
@@ -16,6 +18,7 @@
 # 3     City Hall / Lavaca & 2nd    36520
 # 4     2nd & Congress              35307
 # 5     Rainey St @ Cummings        34758
+*/
 
 SELECT
     start_station_name,
@@ -27,7 +30,7 @@ ORDER BY
     counts desc
 
 
-
+/*
 # Question #2: Which routes (start to end point) are the most popular? List the top 5.
 #
 # Answer:
@@ -36,6 +39,7 @@ ORDER BY
 # 3	21st & Speedway @PCL    Dean Keeton & Speedway  10173
 # 4	Dean Keeton & Speedway  21st & Speedway @PCL    9523
 # 5	Rainey St @ Cummings    Rainey St @ Cummings    8676
+*/
 
 SELECT
     start_station_name,
@@ -48,7 +52,7 @@ GROUP BY
 ORDER BY counts desc
 
 
-
+/*
 # Question 3: Which stations are the furthest distance apart?
 # Hint: I'd calculated the distance in meters based on the longitue and latitute of the start and end points.
 # https://towardsdatascience.com/using-bigquerys-new-geospatial-functions-to-interpolate-temperatures-d9363ff19446
@@ -58,6 +62,7 @@ ORDER BY counts desc
 # Lake Austin & Enfield     Capital Metro HQ - East 5th at Broadway     8246.260917924477
 # Lake Austin & Enfield     East 6th & Pedernales St.                   7709.260055350502
 # Lake Austin & Enfield     East 6th at Robert Martinez                 7281.816803608255
+*/
 
 SELECT
     *,
@@ -84,5 +89,3 @@ FROM
     ) e
 ORDER BY dist_meters DESC
 
-
-#ZEND
