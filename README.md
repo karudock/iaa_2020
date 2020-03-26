@@ -34,7 +34,9 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 [**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit#slide=id.g71681dc956_0_348)
 * Apache Kafka
 * Google PubSub
+* Demo of PubSub
 * Spark Streaming
+* Demo of Spark Streaming
 * Apache Beam (Google Dataflow)
 
 -----------------
@@ -46,27 +48,28 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Building and deploying Spark machine learning models
 * Considerations for ML in distributed environments
 * Spark Best Practices and Tuning
+* Spark Code Walk-through (within Google Colab)
 
 [**Assignment - Due on Monday, March 30 at 11:59pm EST**](https://github.com/zaratsian/iaa_2020/blob/master/session_04/Spark_ML_Assignment_(template).ipynb)
 
 -----------------
 ## IAA Module - Session 5 - Serverless Technology
 **Slides**
-* Intro to Google Cloud Platform
 * Overview of Serverless
+* Serverless ML
+* BigQuery ML
 * Google Cloud Functions
-* Cloud Run
-* Industry trends & Applications
-* Walk-through of Tools and Services
+* Google Cloud AutoML
 
 -----------------
 ## IAA Module - Session 6 - Cloud Overview, Features and Demos / Special Topics
 **Slides**
 This session will be used as an overflow from previous sessions. If extra time is needed 
 or a deeper dive is required for specific content, then this session will be used for that. 
+* Intro to Google Cloud Platform
 * Machine Learning APIs
-* GCP AutoML
-* GCP AI Platform
+* Google Cloud AI Platform
+* Cloud Deployments - Kubernetes, App Engine
 
 
 -----------------
