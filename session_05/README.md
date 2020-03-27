@@ -3,7 +3,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 -----------------
 ## IAA Module - Session 5 - Serverless Technology
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1avRm-Ezi4Zj4GiAMR55OgfWN13C7pnvWy6Ck4kya7zQ/edit#slide=id.g4b0af3364f_1_5183)
 * Overview of Serverless
 * Serverless ML
 * BigQuery ML
