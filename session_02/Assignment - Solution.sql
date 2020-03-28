@@ -12,11 +12,11 @@
 # Question 1: Which bike station in Austin is the most popular when starting a trip?
 #
 # Answer:
-# 1   21st & Speedway @PCL        72799
-# 2   Riverside @ S. Lamar        40635
-# 3	  City Hall / Lavaca & 2nd    36520
-# 4	  2nd & Congress              35307
-# 5	  Rainey St @ Cummings        34758
+# 1     21st & Speedway @PCL        72799
+# 2     Riverside @ S. Lamar        40635
+# 3     City Hall / Lavaca & 2nd    36520
+# 4     2nd & Congress              35307
+# 5     Rainey St @ Cummings        34758
 */
 
 SELECT
