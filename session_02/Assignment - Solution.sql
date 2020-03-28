@@ -64,7 +64,8 @@ ORDER BY counts desc
 */
 
 SELECT
-    c.*,
+    c.start_station_name,
+    c.end_station_name,
     ST_Distance(ST_GeogPoint(d.longitude, d.latitude), ST_GeogPoint(start_longitude, start_latitude)) AS dist_meters
 FROM
     (
@@ -80,7 +81,7 @@ FROM
 LEFT JOIN
     `bigquery-public-data.austin_bikeshare.bikeshare_stations` d ON safe_cast(c.end_station_id as STRING) = safe_cast(d.station_id as STRING)
 ORDER BY dist_meters DESC
-
+LIMIT 5
 
 
 
