@@ -62,15 +62,13 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Google Cloud AutoML
 
 -----------------
-## IAA Module - Session 6 - Cloud Overview, Features and Demos / Special Topics
-**Slides**
-This session will be used as an overflow from previous sessions. If extra time is needed 
-or a deeper dive is required for specific content, then this session will be used for that. 
-* Intro to Google Cloud Platform
+## IAA Module - Session 6 - Cloud Machine Learning and Deployments
+[**Slides**](https://docs.google.com/presentation/d/1Y1Vmk4-AonMmHO8MpjgKiAubK_Mod9W6x1k3Au5zhRc/edit#slide=id.g7238c84f20_1_14450)
+* Overview of Google Cloud and general cloud services for ML Deployment
 * Google Cloud AI Platform
 * Cloud Deployments - App Engine
+* Demo ML Model Deployment for NFL Play Predictions ([link to repo](https://github.com/zaratsian/nfl_predictions))
 * Cloud Deployments - Kubernetes
-
 
 
 -----------------
@@ -80,6 +78,7 @@ or a deeper dive is required for specific content, then this session will be use
 * [Google Cloud BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
 * [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
 * [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
+* [Google Cloud AI Platform](https://console.cloud.google.com/ai-platform/)
 * [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
 * [Apache NiFi Docs](https://nifi.apache.org/docs.html)
 * [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
