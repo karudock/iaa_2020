@@ -66,9 +66,11 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 [**Slides**](https://docs.google.com/presentation/d/1Y1Vmk4-AonMmHO8MpjgKiAubK_Mod9W6x1k3Au5zhRc/edit#slide=id.g7238c84f20_1_14450)
 * Overview of Google Cloud and general cloud services for ML Deployment
 * Google Cloud AI Platform
-* Cloud Deployments - App Engine
 * Demo ML Model Deployment for NFL Play Predictions ([link to repo](https://github.com/zaratsian/nfl_predictions))
+* Cloud Deployments - App Engine
+* Demo App Engine Deployment
 * Cloud Deployments - Kubernetes
+* Demo Kubernetes Deployment
 
 
 -----------------
