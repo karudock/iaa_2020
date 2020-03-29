@@ -9,7 +9,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Demo ML Model Deployment for NFL Play Predictions ([link to repo](https://github.com/zaratsian/nfl_predictions))
 * Cloud Deployments - App Engine
 * Demo App Engine Deployment
-* Cloud Deployments - Kubernetes
+* Cloud Deployments - Kubernetes ([getting started](https://cloud.google.com/kubernetes-engine/docs/quickstarts/deploying-a-language-specific-app))
 * Demo Kubernetes Deployment
 
 
