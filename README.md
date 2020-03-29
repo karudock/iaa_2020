@@ -67,9 +67,10 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 This session will be used as an overflow from previous sessions. If extra time is needed 
 or a deeper dive is required for specific content, then this session will be used for that. 
 * Intro to Google Cloud Platform
-* Machine Learning APIs
 * Google Cloud AI Platform
-* Cloud Deployments - Kubernetes, App Engine
+* Cloud Deployments - App Engine
+* Cloud Deployments - Kubernetes
+
 
 
 -----------------
